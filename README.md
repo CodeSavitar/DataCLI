@@ -17,3 +17,10 @@ Dependencies :
  - pandas
  - pyfiglet
 
+Screenshots :
+
+![](Screenshots/Image001.jpeg)
+
+<br>
+
+![](Screenshots/Image002.jpeg)
