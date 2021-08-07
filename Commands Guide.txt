@@ -1,0 +1,25 @@
+Commands You can use:
+
+1. python cli.py process Display
+
+   -- This displays the dataset.
+
+2. python cli.py process Description
+
+   -- This shows the description of the dataset
+
+3. python cli.py process Column-Drop "column name"
+
+   -- This drops the specified column from the dataset
+
+4. python cli.py process Null-Values "column name"
+
+   -- This takes care of the Null values in the specified column
+
+5. python cli.py process Categorical-Data "column name"
+
+   -- This Label Encodes the specified column
+
+6. python cli.py process Data-Preprocess
+
+   -- This preprocesses your dataset and saves in a csv file which you can use for training purpose.
