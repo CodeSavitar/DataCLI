@@ -1,4 +1,4 @@
-DataCLI : HackACode 2021
+DataCLI
 =======
 
 ``DataCLI`` : A simple CLI where you can perform your ML data preprocessing with ease
